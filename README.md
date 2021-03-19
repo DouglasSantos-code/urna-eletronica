@@ -15,8 +15,8 @@
 
 ##  Features
 
-- [ ] Ajustar o design
-- [ ] Adicionar novos candidatos
+- [ ] Ajustar o design.
+- [ ] Adicionar novos candidatos.
 
 
 <br> 
