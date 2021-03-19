@@ -43,4 +43,4 @@ Encontre-me em [![Gmail Badge](https://img.shields.io/badge/gmail-rgb(29,58,95)?
 
 <br>
 
-Esse projeto está sob a licença MIT.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/DouglasSantos-code/urna-eletronica/blob/main/LICENSE) para mais detalhes.
