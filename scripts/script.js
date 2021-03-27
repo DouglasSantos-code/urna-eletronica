@@ -138,3 +138,20 @@ function confirma() {
 }
 
 comecarEtapa()
+
+
+
+
+const show = document.querySelector('.mostrarCandidatos')
+show.style.display = "none"
+
+const numeroC = document.querySelector('.numeroCandidatos').addEventListener('click', () => {
+    
+
+    if (show.style.display == "none") {
+        show.style.display = "block"
+    } else {
+        show.style.display = "none"
+    }
+
+})
